@@ -1,7 +1,7 @@
 /*A menu-driven C program that manages student records using structures, functions, and file handling.*/
 #include<stdio.h>
 #include<string.h>
-
+ 
 /* ----------- MACROS ----------- */
 #define max_student 100    //student array limit 
 #define max_course  100    //course array limit
